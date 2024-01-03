@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saif-rathod
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA and Android Studio
+- 🌱 I’m currently learning DSA and AI-ML
 - 💞️ I’m looking to collaborate on any Open source project
 - 📫 How to reach me ..You can connect with me on Linkedin
 
