@@ -4,7 +4,7 @@
 <img align= "right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rathod" /> </p>
 
-- 🔭 I’m currently working on **Heart diseases Prediction**
+- 🔭 I’m currently working on **Transformers models**
 
 - 🌱 I’m currently learning **Reinforcement Learning,Advanced DP algorithms, Deep Learning, .NET, Cloud Computing**
 
