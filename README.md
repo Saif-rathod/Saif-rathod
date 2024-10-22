@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Saif Rathod</h1>
 <h3 align="center">A passionate Machine Learning developer!</h3>
-<img align= "right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rathod" /> </p>
+<img align= "right" alt="coding"  width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saif-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rathod" /> </p>
 
 - 🔭 I’m currently working on **Implementation of GPT2 from scratch!**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **saifr1497@gmail.com**
 
-- ⚡ Fun fact **I love to play football and a die hard Lionel Messi fan! ⚽💙❤️**
+- ⚡ Fun fact **I love to play football and a Leo Messi fan! ⚽💙❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
