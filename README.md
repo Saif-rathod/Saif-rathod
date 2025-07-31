@@ -4,15 +4,15 @@
 <img align= "right" alt="coding"  width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saif-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="saif-rathod" /> </p>
 
-- 🔭 I’m currently working on **Implementation of GPT2 from scratch!**
+- 🔭 I’m currently working on **Implementation of Inboxprism**
 
-- 🌱 I’m currently learning **Advanced DP algorithms, Deep Learning, Cloud Computing**
+- 🌱 I’m currently doing research on **NLP **
 
-- 💬 Ask me about **Python, C++, Webdev, AI-ML, Algorithms**
+- 💬 Ask me about ** ML, NLP, LLMS, Algorithms**
 
 - 📫 How to reach me **saifr1497@gmail.com**
 
-- ⚡ Fun fact **I love to play football and a Leo Messi fan! ⚽💙❤️**
+- ⚡ Fun fact **I play football and a Leo Messi fan! ⚽💙❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
