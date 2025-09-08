@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ML, DL, GenAI, NLP, LLMS, Data Structure and Algorithms**
 
-- 📫 How to reach me **saifr1497@gmail.com**
+- 📫 How to reach me **saifrathod.work@gmail.com**
 
 - ⚡ Fun fact **I play football and a Leo Messi fan! ⚽💙❤️**
 
