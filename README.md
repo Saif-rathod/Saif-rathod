@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Implementation of Inboxprism MVP**
 
-- 🌱 I’m currently doing research on **NLP + Php Integration.**
+- 🌱 I’m currently doing research on **NLP**
 
-- 💬 Ask me about **Wordpress, Php, WEBDEV, ML, DL, GenAI, NLP, LLMS, Data Structure and Algorithms**
+- 💬 Ask me about **ML, DL, GenAI, NLP, LLMS, Data Structure and Algorithms**
 
 - 📫 How to reach me **saifr1497@gmail.com**
 
