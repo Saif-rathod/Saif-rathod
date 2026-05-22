@@ -29,8 +29,4 @@
   <a href="https://nextjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" /></a>
 </p>
 
-<h2 align="left">📊 Language Used Stats:</h2>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-rathod&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
-</p>
+
